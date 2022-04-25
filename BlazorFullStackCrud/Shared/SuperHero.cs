@@ -9,7 +9,7 @@ namespace BlazorFullstackCrud.Shared
 	public class Superhero
 	{
 
-		public int ID { get; set; }
+		public int Id { get; set; }
 
 		public string FirstName { get; set; } = string.Empty;
 
